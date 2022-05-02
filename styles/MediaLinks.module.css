@@ -1,0 +1,25 @@
+.social {
+  margin: 0 1rem;
+  transition: transform 250ms;
+  display: inline-block;
+}
+
+.social:hover {
+  transform: scale(2.5, 2.5);
+}
+
+.youtube {
+  color: #eb3223;
+}
+
+.linkedin {
+  color: #0072b1;
+}
+
+.github {
+  color: #6e5494;
+}
+
+.twitter {
+  color: #49a1eb;
+}

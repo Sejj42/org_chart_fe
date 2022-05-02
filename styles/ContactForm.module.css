@@ -1,0 +1,31 @@
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.subBtn {
+  border: none;
+  background-color: #1c0a5a;
+  color: #fff;
+  align-self: center;
+  padding: 24px;
+  border-radius: 18px;
+  font-size: 42px;
+}
+
+.inputField,
+.textareaInputField {
+  border: 3px dashed #1c0a5a;
+  border-radius: 5px;
+  width: 360px;
+  height: 42px;
+  margin: 12px 0;
+}
+
+.textareaInputField {
+  border: 5px dashed #1c0a5a;
+  width: 460px;
+  height: 160px;
+}
