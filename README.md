@@ -1,6 +1,6 @@
-## Getting Started
+# Getting Started
 
-# To run the development server:
+## To run the development server:
 
 ```bash
 npm run dev
@@ -10,7 +10,12 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-# Don't forget to npm install !
+## Other Instructions:
+
+- Don't forget to npm install!
+- To login, you may use the following email: ruth.cohn@email.com and password: 334455
+- Or these credentials: email: betty.cohen@email.com and password: 123456
+- To login with different user credentials, please visit the data.json file in the backend repo of this project.
 
 ## Notes
 
